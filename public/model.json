@@ -43,7 +43,7 @@
     "id": 6,
     "title": "Perplexity AI",
     "description": "AI-powered search engine that answers questions with cited sources.\nCombines LLM reasoning with real-time web retrieval.",
-    "price": "Free",
+    "price": 10,
     "image": "https://i.ibb.co.com/39j2g8tF/image.png",
     "status": "mostwanted"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "title": "ElevenLabs",
     "description": "State-of-the-art AI voice cloning and text-to-speech synthesis.\nSupports 30+ languages with ultra-realistic voice output.",
-    "price": "Free",
+    "price": 29,
     "image": "https://i.ibb.co.com/pj5Crb75/image.png",
     "status": "mostwanted"
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "title": "Stable Diffusion",
     "description": "Open-source text-to-image AI model that runs locally or in the cloud.\nHighly customizable with thousands of community fine-tuned models.",
-    "price": "Free",
+    "price": 0,
     "image": "https://i.ibb.co.com/vCQ4FgtJ/image.png",
     "status": "popular"
   }
