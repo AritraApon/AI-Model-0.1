@@ -1,12 +1,19 @@
 
 import './App.css'
+import Banner from './Components/Banner/Banner'
+import Footer from './Components/Footer/Footer'
+import Navbar from './Components/Navbar/Navbar'
 
 function App() {
 
 
   return (
   <>
-      <h1 className='text-5xl'>hello</h1>
+     <Navbar/>
+     <Banner/>
+
+
+     <Footer/>
   </>
   )
 }
