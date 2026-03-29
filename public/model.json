@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "ChatGPT",
+    "description": "Conversational AI assistant by OpenAI for writing, coding, and analysis.\nSupports GPT-4o with image, voice, and file capabilities.",
+    "price": 20,
+    "image": "https://i.ibb.co.com/xSgKxLpV/image.png",
+    "status": "popular"
+  },
+  {
+    "id": 2,
+    "title": "Claude",
+    "description": "Anthropic's AI assistant known for safety, nuance, and long-context reasoning.\nAvailable via claude.ai with powerful document and code understanding.",
+    "price": 20,
+    "image": "https://i.ibb.co.com/pjPzfcZv/image.png",
+    "status": "favourite"
+  },
+  {
+    "id": 3,
+    "title": "Gemini",
+    "description": "Google's multimodal AI with deep integration into Google Workspace and Search.\nSupports text, image, audio, and video understanding natively.",
+    "price": 19.99,
+    "image": "https://i.ibb.co.com/kVmGhntr/image.png",
+    "status": "popular"
+  },
+  {
+    "id": 4,
+    "title": "Midjourney",
+    "description": "Leading AI image generation tool known for stunning artistic quality.\nOperated via Discord with a rich community of creators.",
+    "price": 10,
+    "image": "https://i.ibb.co.com/wFP7zHgd/image.png",
+    "status": "popular"
+  },
+  {
+    "id": 5,
+    "title": "GitHub Copilot",
+    "description": "AI pair programmer that suggests code and entire functions in real time.\nDeep IDE integration with VS Code, JetBrains, and more.",
+    "price": 10,
+    "image": "https://i.ibb.co.com/BVHgcMS2/image.png",
+    "status": "favourite"
+  },
+  {
+    "id": 6,
+    "title": "Perplexity AI",
+    "description": "AI-powered search engine that answers questions with cited sources.\nCombines LLM reasoning with real-time web retrieval.",
+    "price": "Free",
+    "image": "https://i.ibb.co.com/39j2g8tF/image.png",
+    "status": "mostwanted"
+  },
+  {
+    "id": 7,
+    "title": "Runway ML",
+    "description": "Professional AI video generation and editing platform for creatives.\nSupports text-to-video, image-to-video, and advanced motion tools.",
+    "price": 15,
+    "image": "https://i.ibb.co.com/gZ9pfZs1/image.png",
+    "status": "mostwanted"
+  },
+  {
+    "id": 8,
+    "title": "ElevenLabs",
+    "description": "State-of-the-art AI voice cloning and text-to-speech synthesis.\nSupports 30+ languages with ultra-realistic voice output.",
+    "price": "Free",
+    "image": "https://i.ibb.co.com/pj5Crb75/image.png",
+    "status": "mostwanted"
+  },
+  {
+    "id": 9,
+    "title": "Notion AI",
+    "description": "AI writing and productivity assistant built into Notion workspaces.\nHelps summarize, draft, translate, and auto-fill databases.",
+    "price": 10,
+    "image": "https://i.ibb.co.com/F4R0f2rF/image.png",
+    "status": "favourite"
+  },
+  {
+    "id": 10,
+    "title": "Stable Diffusion",
+    "description": "Open-source text-to-image AI model that runs locally or in the cloud.\nHighly customizable with thousands of community fine-tuned models.",
+    "price": "Free",
+    "image": "https://i.ibb.co.com/vCQ4FgtJ/image.png",
+    "status": "popular"
+  }
+]
