@@ -29,7 +29,7 @@ const ModelCards = ({ model }) => {
         <button
           onClick={handleSubscribeBtn}
           className={`btn  text-white w-full rounded-2xl py-8 text-xl font-bold 
-            ${selectBtn === true ? "bg-green-500 shadow-2xl shadow-green-300" : "bg-red-500 shadow-2xl shadow-red-300"} `}
+            ${selectBtn === true ? "bg-green-500 shadow-2xl hover:shadow-green-300" : "bg-red-500 shadow-2xl hover:shadow-red-300"} `}
         >
           {selectBtn === true ? "Subscribed" : "Subscribe"}
         </button>
