@@ -23,7 +23,7 @@ function App() {
 
   return (
     <>
-      <Navbar setActiveModel={setActiveModel} />
+      <Navbar setActiveModel={setActiveModel} carts={carts} />
       <Banner />
 
       {/* name of each tab group should be unique */}
